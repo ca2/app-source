@@ -1,0 +1,10 @@
+time-*/
+workspace.xml
+cmake-build-*/
+cmake-time-*/
+**/CMakeFiles
+.visualgdb/
+deployment.rc
+application_build_helper_input.txt
+application_build_helper_output.txt
+matter_output.txt
