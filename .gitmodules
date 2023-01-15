@@ -1,0 +1,9 @@
+[submodule "app"]
+	path = app
+	url = ../app
+[submodule "include"]
+	path = include
+	url = ../include
+[submodule "port"]
+	path = port
+	url = ../../cpp-port/port
